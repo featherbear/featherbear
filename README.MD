@@ -14,7 +14,7 @@ Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https:
 ---
   
 <s>During the day I pretend to understand what CVE's are talking about.  
-In my other life I write software and tinker with hardware related to audio / visual and networks.  </s>  
+In my other life I write software and tinker with hardware related to audio, video, and networks.  </s>  
 
 > **Here, <u>[click](https://featherbear.cc/about)</u>. 👈**
 </details>
