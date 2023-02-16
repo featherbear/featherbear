@@ -1,5 +1,6 @@
 [![Cover Banner](cover.png)](https://featherbear.cc)
 
+<!--
 # Welcome to my badly written code
 
 Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https://youtu.be/yX8yrOAjfKM?t=85)
