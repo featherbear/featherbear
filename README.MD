@@ -1,6 +1,6 @@
 [![Cover Banner](cover.png)](https://featherbear.cc)
 
-<!--
+
 # Welcome to my badly written code
 
 Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https://youtu.be/yX8yrOAjfKM?t=85)
@@ -13,9 +13,9 @@ Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https:
 [📑](https://featherbear.cc/blog/) [Ramblings](https://featherbear.cc/blog/)  
 
 ---
-  
-<s>During the day I pretend to understand what CVE's are talking about.  
-In my other life I write software and tinker with hardware related to audio, video, and networks.  </s>  
+
+<s>Part time sound engineer, part time cyber-something, full time kid</s>  
+<s>I write software and tinker with hardware related to audio, video, and networks.</s>  
 
 > **Here, <u>[click](https://featherbear.cc/about)</u>. 👈**
 </details>
